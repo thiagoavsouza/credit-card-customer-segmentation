@@ -70,3 +70,9 @@ seaborn
 matplotlib
 scipy
 scikit-learn
+```
+
+## Contato  
+Se precisar de mais informações, entre em contato:  
+E-mail: thiago.a.v.souza@gmail.com  
+Linkedin: [Thiago Souza](https://www.linkedin.com/in/thiagoavsouza/)
